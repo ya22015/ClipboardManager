@@ -1,9 +1,3 @@
-# ClipboardManager
-
-Great! Here's a write-up for your GitHub repository:
-
----
-
 # Clipboard Manager
 
 ## Overview
