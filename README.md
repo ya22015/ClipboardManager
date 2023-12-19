@@ -32,11 +32,19 @@ The Clipboard Manager is a simple Python script that serves as a background clip
 
 - **Termination:** The program can be gracefully terminated by right-clicking on the system tray icon and selecting "Exit."
 
-### 4. Exit Method
+### 4. Dependecies
+
+- pip install pyperclip
+
+- pip install pystray
+  
+- pip install Pillow
+  
+### 5. Exit Method
 
 - **Graceful Termination:** The `exit` method is responsible for stopping the system tray icon when the program is terminated.
 
-### 5. File Handling
+### 6. File Handling
 
 - **Persistence:** The clipboard history is loaded from and saved to a file (`clipboard_history.txt`).
 
