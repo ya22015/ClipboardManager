@@ -8,7 +8,7 @@ Great! Here's a write-up for your GitHub repository:
 
 ## Overview
 
-The Clipboard Manager is a simple Python script that serves as a background clipboard manager, monitoring the system clipboard and maintaining a history of clipboard entries. Users can conveniently access this history through a system tray icon.
+The Clipboard Manager is a Python script that serves as a background clipboard manager, monitoring the system clipboard and maintaining a history of clipboard entries. Users can conveniently access this history through a system tray icon.
 
 ## Features
 
